@@ -1,0 +1,1 @@
+/home/kmro/wr_ws/devel/.private/motion_plan/share/motion_plan/cmake/motion_planConfig.cmake

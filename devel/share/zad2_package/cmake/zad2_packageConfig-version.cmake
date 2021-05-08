@@ -1,0 +1,1 @@
+/home/kmro/wr_ws/devel/.private/zad2_package/share/zad2_package/cmake/zad2_packageConfig-version.cmake
